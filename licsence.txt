@@ -1,0 +1,39 @@
+
+---
+
+## 4. `.gitignore`
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Distribution
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Data files (local only, don't commit personal data)
+# Uncomment below if you don't want to track your personal task data:
+# .task_planner_data.json
+# .task_planner_log.json
