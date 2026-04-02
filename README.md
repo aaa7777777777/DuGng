@@ -42,8 +42,6 @@
 ## 快速开始
 
 ```bash
-# 克隆
-git clone https://github.com/你的用户名/task-planner.git
 cd task-planner
 
 # 安装依赖
